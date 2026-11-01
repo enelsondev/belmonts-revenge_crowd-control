@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "name": "Belmont's Revenge - CC alpha1"
+  },
+  "effects": {
+    "game": {
+      "hearts_max": {
+        "name": {
+          "public": "99 Hearts"
+        }
+      },
+      "weapon_cross": {
+        "name": {
+          "public": "Give Cross"
+        }
+      },
+      "weapon_axe": {
+        "name": {
+          "public": "Give Axe"
+        }
+      },
+      "weapon_none": {
+        "name": {
+          "public": "Remove Subweapon"
+        }
+      },
+      "kill_player": {
+        "name": {
+          "public": "Kill Christopher"
+        }
+      },
+      "health_full": {
+        "name": {
+          "public": "Full Health"
+        }
+      },
+      "hearts_none": {
+        "name": {
+          "public": "Remove Hearts"
+        }
+      },
+      "weapon_water": {
+        "name": {
+          "public": "Give Holy Water"
+        }
+      }
+    }
+  }
+}

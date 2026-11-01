@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "platform": "GB",
+    "name": "Belmont's Revenge - CC alpha1",
+    "connector": [
+      "Lua"
+    ],
+    "guide": "https://crowdcontrol.live/guides/BelmontsRevengeCC"
+  },
+  "effects": {
+    "game": {
+      "hearts_max": {
+        "name": {
+          "public": "99 Hearts"
+        },
+        "price": 50,
+        "category": [
+          "Player"
+        ]
+      },
+      "weapon_cross": {
+        "name": {
+          "public": "Give Cross"
+        },
+        "price": 50,
+        "category": [
+          "Equipment"
+        ]
+      },
+      "weapon_axe": {
+        "name": {
+          "public": "Give Axe"
+        },
+        "price": 50,
+        "category": [
+          "Equipment"
+        ]
+      },
+      "weapon_none": {
+        "name": {
+          "public": "Remove Subweapon"
+        },
+        "price": 50,
+        "category": [
+          "Equipment"
+        ]
+      },
+      "kill_player": {
+        "name": {
+          "public": "Kill Christopher"
+        },
+        "price": 200,
+        "category": [
+          "Player"
+        ]
+      },
+      "health_full": {
+        "name": {
+          "public": "Full Health"
+        },
+        "price": 100,
+        "category": [
+          "Player"
+        ]
+      },
+      "hearts_none": {
+        "name": {
+          "public": "Remove Hearts"
+        },
+        "price": 50,
+        "category": [
+          "Player"
+        ]
+      },
+      "weapon_water": {
+        "name": {
+          "public": "Give Holy Water"
+        },
+        "price": 50,
+        "category": [
+          "Equipment"
+        ]
+      }
+    },
+    "meta": {
+      "variables": {}
+    }
+  }
+}
